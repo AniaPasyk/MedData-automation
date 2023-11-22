@@ -8,7 +8,7 @@ import utils.TestArguments;
 
 public class LoginPage extends BasePageObject {
 
-    private String pageUrl = "https://meddata-uat.roche.com/login";
+    private String pageUrl = "xxxxxxxx";
 
     private By userNameInput = By.id("mat-input-0");
     private By passwordInput = By.id("mat-input-1");
